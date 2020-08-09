@@ -1,0 +1,2 @@
+# NextJSwithtypescript
+Created with CodeSandbox
